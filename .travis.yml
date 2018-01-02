@@ -3,6 +3,6 @@ node_js:
   - "6.11"
 deploy:
   provider: heroku
-  app: video-provider
+  app: video-provider-ab
   api_key:
     secure: n6f9w3liVV7+6nLkWtexlawEOh0YvEcxqTdLaeCq5I3HAaD2/GLLlViAvYjTPbEVINGc/WhAVi0tRDON2sKbv+GfEWqA5Pf8ZgYRL++vD8apcPQMancu9wYRWLhniPytz0/gKyzTM4+u974a+BSlCdAKxnh+u45E8vGvbj9hwHUY78eN6xNrxC5o21lfDf7iYAPsk9SK80b/sM0eseIddADPxsXmkTuW5c92kF6Qt7xTTfOFcBkhR3yH4tS1/df4LmnfF4ht1FD4p1lhs3ZyipQB0QDcOqqQXvOn9KuXU6/oU8JC3c05YOvHQNcDjWAnLNv65W7vddUP01mbSG7BMrBzalh7pJ50yx91x2iJwRSVzYX4cp8zbB1BU8elwaNdp8KAjF33Rz83XI5iYCaVLap8CehMUIuKX6ZiKBotDbeKpZksEyR7odyidPUDv8Q7mVCrJpnwXrIkIgJZmqf5Em9Kg/LK2RBogy9NSfR2T1CTqRCZlfb6bYV7BORj10ytQmPP8/lW+VM8HK/rVWX2FdyGTwoJ+BRSbCNPsUU6cH8MFsQS49G905eT2K7ohNX6kezeTawpNjlT3fJqHuf0z+xThciKR7MSaQGbpWVMxeUSLTxA4xy6nhiOuYv9fGYv0uXxpQo6b4N17zzwEGGcU3bB9g+69uhMj/v1d+vGUFs=
